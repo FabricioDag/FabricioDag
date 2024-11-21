@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! | Hello!
 
-<!--
-**FabricioDag/FabricioDag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Português  
+Meu nome é **Fabrício**, sou estudante de **Análise e Desenvolvimento de Sistemas** pela **PUCRS**.  
+Tenho paixão por **tecnologia** e **desenvolvimento web**, sempre buscando aprender novas habilidades e me aperfeiçoar como programador. Além de codar, adoro explorar ideias criativas, jogar jogos e correr ao ar livre.  
 
-Here are some ideas to get you started:
+Estou sempre disposto a colaborar em projetos desafiadores e contribuir com soluções eficientes.  
+💬 Entre em contato e vamos criar algo incrível juntos!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## English   
+My name is **Fabrício**, and I am a **Systems Analysis and Development** student at **PUCRS**.  
+I am passionate about **technology** and **web development**, constantly seeking to learn new skills and improve as a programmer. Besides coding, I love exploring creative ideas, playing games, and running outdoors.  
+
+I am always ready to collaborate on challenging projects and contribute with efficient solutions.  
+💬 Feel free to reach out, and let's create something amazing together!
+
